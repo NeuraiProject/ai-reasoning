@@ -9,7 +9,6 @@ const IS_WEBGPU_AVAILABLE = !!navigator.gpu;
 const STICKY_SCROLL_THRESHOLD = 120;
 const EXAMPLES = [
   "Solve the equation x^2 - 3x + 2 = 0",
-  "Solve the equation x^2 - 3x + 2 = 0",
   "Lily is three times older than her son. In 15 years, she will be twice as old as him. How old is she now?",
   "Write python code to compute the nth fibonacci number.",
 ];
